@@ -81,13 +81,13 @@ The resulting semantic model is clean, scalable, and optimized for business inte
 
 The original dataset consisted of multiple operational tables with complex and unstructured relationships.
 
-![Before Data Model](Images/before_data_model.png)
+![Before Data Model](images/before data modeling.png)
 
 ### After Data Modeling
 
 The dataset was transformed into a clean Star Schema optimized for analytics and reporting.
 
-![After Data Model](Images/after_data_model.png)
+![After Data Model](images/after data modeling.png)
 
 ---
 
